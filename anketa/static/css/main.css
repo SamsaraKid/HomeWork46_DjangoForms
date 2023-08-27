@@ -1,0 +1,40 @@
+body{
+    font-family: Calibri, SansSerif;
+    text-align: center;
+}
+
+button, .submit-button{
+    width: 200px;
+}
+
+img{
+    width: 200px;
+}
+
+.center{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.center a{
+    margin: auto;
+}
+
+th{
+    text-align: right;
+    width: 100px;
+}
+
+td{
+    width: 200px;
+}
+
+table{
+    width: 300px;
+    text-align: left;
+    margin: auto;
+    word-wrap: break-word;
+    table-layout: fixed;
+    overflow: hidden;
+}
